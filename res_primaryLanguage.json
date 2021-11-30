@@ -1,0 +1,74 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Jenny Hoang. Building games is my passion and I love to create and test. I've taught kids how to build games with Unity using C# and web games using JavaScript. I have also tutored fellow peers at St. Clair College with courses that I have completed. I hope to continue building relationships and inspiring other to learn and create. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "My Unity Game",
+      "startDate": "2021",
+      "description": "Currently In Progress...",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Capstone Project",
+      "startDate": "2021",
+      "description": "A Description Here",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "My Other Unity Game",
+      "startDate": "2021",
+      "description": "A Description Here",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+
+  ],
+  "experience": [
+
+  ]
+}
